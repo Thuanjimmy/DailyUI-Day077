@@ -1,0 +1,40 @@
+body {
+  background-color: #1b1717;
+  font-family: ubuntu;
+  margin: 25px 50px;
+}
+
+h3 {
+  margin-top: 45px;
+}
+.box {
+  width: 420px;
+  height: 600px;
+  background-color: white;
+  border-radius: 10px;
+  border: #dddddd 10px solid;
+  margin: 75px auto;
+  padding: 25px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+
+.right {
+  text-align: right;
+}
+.pic {
+  position: absolute;
+  width: 25%;
+}
+.middle {
+  position: relative;
+  text-align: center;
+  margin-top: 125px;
+}
+.btn-lg {
+  margin-top: 50px;
+}
